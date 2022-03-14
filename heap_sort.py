@@ -30,7 +30,6 @@ def heap_sort(vector):
         vector[i] = vector[i] ^ vector[0]
         reheap(vector, i, 0)
 
-# A= [ 456, 90, 56, 345, 9, 0 , 1, 4, 590,37,800]
-# heap_sort(A)
-# print(A)
+
+
 

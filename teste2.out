@@ -1,0 +1,184 @@
+10^5 numere cu maximul 10^3: 
+Default Sort PYTHON3 
+       Timp: 0.015621423721313477
+Radix 2^10 
+       Timp: 0.05155134201049805
+       Corect sortat: True
+Radix 2^12 
+       Timp: 0.07967734336853027
+       Corect sortat: True
+Radix 2^16 
+       Timp: 0.08430099487304688
+       Corect sortat: True
+Merge Sort 
+       Timp: 0.37425971031188965
+       Corect sortat: True
+Shell Sort 2^k+1
+       Timp: 3.1502668857574463
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 1.131469964981079
+       Corect sortat: True
+Heap Sort 
+       Timp: 1.0603883266448975
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 1.02756929397583
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 1.0119271278381348
+       Corect sortat: True
+
+10^5 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.012348413467407227
+Radix 2^10 
+       Timp: 0.1651005744934082
+       Corect sortat: True
+Radix 2^12 
+       Timp: 0.15703368186950684
+       Corect sortat: True
+Radix 2^16 
+       Timp: 0.12478518486022949
+       Corect sortat: True
+Merge Sort 
+       Timp: 0.38062334060668945
+       Corect sortat: True
+Shell Sort 2^k+1
+       Timp: 3.551668643951416
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 1.868154525756836
+       Corect sortat: True
+Heap Sort 
+       Timp: 1.1763744354248047
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 0.3566575050354004
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 0.29847025871276855
+       Corect sortat: True
+
+10^6 numere cu maximul 10^3: 
+Default Sort PYTHON3 
+       Timp: 0.15404844284057617
+Radix 2^10 
+       Timp: 0.5777184963226318
+       Corect sortat: True
+Radix 2^12 
+       Timp: 0.5776205062866211
+       Corect sortat: True
+Radix 2^16 
+       Timp: 0.5973496437072754
+       Corect sortat: True
+Merge Sort 
+       Timp: 4.903462886810303
+       Corect sortat: True
+Shell Sort 2^k+1
+       Timp: 29.267348289489746
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 17.740764141082764
+       Corect sortat: True
+Heap Sort 
+       Timp: 13.967091083526611
+       Corect sortat: True
+Quick Sort - pivot random 
+Nu pot Sorta ! E prea multa recursie
+Quick Sort - mediana din 5 
+Nu pot Sorta ! E prea multa recursie
+10^6 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.25980329513549805
+Radix 2^10 
+       Timp: 2.3202178478240967
+       Corect sortat: True
+Radix 2^12 
+       Timp: 2.3022725582122803
+       Corect sortat: True
+Radix 2^16 
+       Timp: 1.5761609077453613
+       Corect sortat: True
+Merge Sort 
+       Timp: 5.150741100311279
+       Corect sortat: True
+Shell Sort 2^k+1
+       Timp: 38.96265172958374
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 29.541590690612793
+       Corect sortat: True
+Heap Sort 
+       Timp: 14.841628789901733
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 3.9369254112243652
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 4.133260488510132
+       Corect sortat: True
+
+10^7 numere cu maximul 10^3: 
+Default Sort PYTHON3 
+       Timp: 1.6068341732025146
+Radix 2^10 
+       Timp: 6.071499347686768
+       Corect sortat: True
+Radix 2^12 
+       Timp: 6.823033809661865
+       Corect sortat: True
+Radix 2^16 
+       Timp: 6.068361520767212
+       Corect sortat: True
+Merge Sort 
+       Timp: 60.79852271080017
+       Corect sortat: True
+Shell Sort 2^k+1
+       Timp: 369.41844296455383
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 236.17097663879395
+       Corect sortat: True
+Heap Sort 
+       Timp: 166.80312061309814
+       Corect sortat: True
+Quick Sort - pivot random 
+Nu pot Sorta ! E prea multa recursie
+Quick Sort - mediana din 5 
+Nu pot Sorta ! E prea multa recursie
+10^7 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 3.715771436691284
+Radix 2^10 
+       Timp: 26.270793437957764
+       Corect sortat: True
+Radix 2^12 
+       Timp: 40.79548907279968
+       Corect sortat: True
+Radix 2^16 
+       Timp: 17.46589469909668
+       Corect sortat: True
+Merge Sort 
+       Timp: 69.75234842300415
+       Corect sortat: True
+Shell Sort 2^k+1
+       Timp: 741.4593689441681
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 625.914918422699
+       Corect sortat: True
+Heap Sort 
+       Timp: 200.11110615730286
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 53.2461302280426
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 54.01548743247986
+       Corect sortat: True
+
