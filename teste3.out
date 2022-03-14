@@ -1,0 +1,91 @@
+10^6 numere cu maximul 10^3: 
+Default Sort PYTHON3 
+       Timp: 0.1515812873840332
+Merge Sort 
+       Timp: 4.894705057144165
+       Corect sortat: True
+Shell Sort Marcin Ciura 
+       Timp: 8.146037817001343
+       Corect sortat: True
+Shell Sort 2^k+1 
+       Timp: 29.66171360015869
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 17.34858512878418
+       Corect sortat: True
+10^6 numere cu maximul 10^5: 
+Default Sort PYTHON3 
+       Timp: 0.2643253803253174
+Merge Sort 
+       Timp: 5.150850057601929
+       Corect sortat: True
+Shell Sort Marcin Ciura 
+       Timp: 11.923924446105957
+       Corect sortat: True
+Shell Sort 2^k+1 
+       Timp: 38.79697799682617
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 28.789175271987915
+       Corect sortat: True
+10^6 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.2674417495727539
+Merge Sort 
+       Timp: 5.471245765686035
+       Corect sortat: True
+Shell Sort Marcin Ciura 
+       Timp: 12.723848104476929
+       Corect sortat: True
+Shell Sort 2^k+1 
+       Timp: 40.081913232803345
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 28.69284725189209
+       Corect sortat: True
+10^7 numere cu maximul 10^3: 
+Default Sort PYTHON3 
+       Timp: 1.6114492416381836
+Merge Sort 
+       Timp: 62.25956130027771
+       Corect sortat: True
+Shell Sort Marcin Ciura 
+       Timp: 124.8409993648529
+       Corect sortat: True
+Shell Sort 2^k+1 
+       Timp: 388.7285141944885
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 293.4920325279236
+       Corect sortat: True
+10^7 numere cu maximul 10^5: 
+Default Sort PYTHON3 
+       Timp: 3.305692195892334
+Merge Sort
+       Timp: 64.51342272758484
+       Corect sortat: True
+Shell Sort Marcin Ciura
+       Timp: 166.09339427947998
+       Corect sortat: True
+Shell Sort 2^k+1
+       Timp: 664.747312784195
+       Corect sortat: True
+Shell Sort 3k+1
+       Timp: 543.3240134716034
+       Corect sortat: True
+10^7 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 3.7497036457061768
+Merge Sort 
+       Timp: 67.92606234550476
+       Corect sortat: True
+Shell Sort Marcin Ciura 
+       Timp: 196.19719576835632
+       Corect sortat: True
+Shell Sort 2^k+1 
+       Timp: 753.3092956542969
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 617.2139332294464
+       Corect sortat: True
+

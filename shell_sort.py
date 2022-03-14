@@ -36,7 +36,9 @@ def shell_sort(vector, gap_seq):
                 j -= h
     return vector
 
-gaps = [1, 4, 10, 23, 57, 132, 301, 701]
+
+gaps_ciura = [1, 4, 10, 23, 57, 132, 301, 701, 1750, 3937, 8858, 19930, 44842, 100894, 227011, 510774]
+
 
 # A= [random.randint(1,10000000) for _ in range(10000)]
 # print(len(A))
