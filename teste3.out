@@ -89,3 +89,34 @@ Shell Sort 3k+1
        Timp: 617.2139332294464
        Corect sortat: True
 
+10^4 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.0
+Merge Sort 
+       Timp: 0.03713488578796387
+       Corect sortat: True
+Shell Sort Marcin Ciura 
+       Timp: 0.08321166038513184
+       Corect sortat: True
+Shell Sort 2^k+1 
+       Timp: 0.3473818302154541
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 0.11578226089477539
+       Corect sortat: True
+10^5 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.017935514450073242
+Merge Sort 
+       Timp: 0.39491891860961914
+       Corect sortat: True
+Shell Sort Marcin Ciura 
+       Timp: 1.0006103515625
+       Corect sortat: True
+Shell Sort 2^k+1 
+       Timp: 3.5880300998687744
+       Corect sortat: True
+Shell Sort 3k+1 
+       Timp: 1.646798849105835
+       Corect sortat: True
+

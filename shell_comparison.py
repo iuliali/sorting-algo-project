@@ -106,9 +106,8 @@ for i in range(nr_teste):
     params_tests.append((int(linie[0]), int(linie[1])))
 
 
-# for k in range(nr_teste):
-k=4
-N = params_tests[k][0]
-max = params_tests[k][1]
-A = [random.randint(0, max) for _ in range(N)]
-CustomInput(A, max, N)
+for k in range(nr_teste):
+    N = params_tests[k][0]
+    max = params_tests[k][1]
+    A = [random.randint(0, max) for _ in range(N)]
+    CustomInput(A, max, N)

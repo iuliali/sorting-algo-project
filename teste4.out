@@ -1,0 +1,90 @@
+10^4 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.0
+Merge Sort 
+       Timp: 0.031235694885253906
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 0.05167508125305176
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 0.01990962028503418
+       Corect sortat: True
+
+Quick Sort - mediana medianelor 
+       Timp: 0.060428619384765625
+       Corect sortat: True
+
+10^5 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.002310514450073242
+Merge Sort 
+       Timp: 0.4069538116455078
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 0.40901851654052734
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 0.4211554527282715
+       Corect sortat: True
+
+Quick Sort - mediana medianelor 
+       Timp: 0.4163832664489746
+       Corect sortat: True
+
+10^6 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 0.25939130783081055
+Merge Sort 
+       Timp: 5.3245885372161865
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 4.035408020019531
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 4.029581546783447
+       Corect sortat: True
+
+Quick Sort - mediana medianelor 
+       Timp: 4.10546875
+       Corect sortat: True
+
+10^7 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 3.7714438438415527
+Merge Sort 
+       Timp: 65.74966406822205
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 51.02987885475159
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 49.53840374946594
+       Corect sortat: True
+
+Quick Sort - mediana medianelor 
+       Timp: 53.29672169685364
+       Corect sortat: True
+
+10^7 numere cu maximul 10^8: 
+Default Sort PYTHON3 
+       Timp: 3.7301154136657715
+Merge Sort 
+       Timp: 66.23647928237915
+       Corect sortat: True
+Quick Sort - pivot random 
+       Timp: 52.15417218208313
+       Corect sortat: True
+
+Quick Sort - mediana din 5 
+       Timp: 51.64836001396179
+       Corect sortat: True
+
+Quick Sort - mediana medianelor 
+       Timp: 54.01908993721008
+       Corect sortat: True
+
